@@ -1,0 +1,1 @@
+Weights to avoid walls of a corridor 
